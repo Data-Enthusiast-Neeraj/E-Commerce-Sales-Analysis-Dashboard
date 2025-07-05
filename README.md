@@ -2,14 +2,18 @@
 
 📦 **Ecommerce Sales Analysis Dashboard**
 
-# **1. Project Title / Headline**
+## **1. Project Title / Headline**
 📈 Ecommerce Pulse: Interactive Sales Insights Dashboard
 A comprehensive Power BI dashboard built to analyze ecommerce performance through dynamic insights on revenue, profit trends, customer behavior, and regional market distribution.
 
-2. Short Description / Purpose
+
+
+##2. **Short Description / Purpose**
 This interactive dashboard enables stakeholders to explore ecommerce sales data across states, product categories, and customer payment preferences. It offers strategic insights into revenue generation, monthly profit trends, and sales patterns by region and sub-category.
 
-3. Tech Stack
+
+
+##3. **Tech Stack**
 This dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main visualization tool for building interactive dashboards.
@@ -22,7 +26,10 @@ This dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for development and .png for preview and presentation.
 
-4. Data Source
+
+
+# **4. Data Source**
+
 Source: Simulated Ecommerce transactional dataset.
 
 The data includes:
@@ -37,7 +44,7 @@ Product categories and sub-categories
 
 Monthly trends in profit and quantity
 
-5. Features / Highlights
+## **5. Features / Highlights**
 • Business Problem
 Businesses often struggle to consolidate ecommerce data in a format that supports operational and strategic decisions—especially across states, categories, and time periods.
 
@@ -94,7 +101,7 @@ Customer Insights: Understand preferences like COD dominance to optimize checkou
 
 Profit Optimization: Focus on high-margin sub-categories (e.g., Printers, Bookcases).
 
-6. Screenshots / Demos
+# **6. Screenshots / Demos**
 
 Screenshot showcasing KPI metrics, monthly trends, customer behavior, and product-level insights.
 

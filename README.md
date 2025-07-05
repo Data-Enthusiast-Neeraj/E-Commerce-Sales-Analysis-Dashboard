@@ -2,7 +2,7 @@
 
 📦 **Ecommerce Sales Analysis Dashboard**
 
-**#1. Project Title / Headline#**
+# **1. Project Title / Headline**
 📈 Ecommerce Pulse: Interactive Sales Insights Dashboard
 A comprehensive Power BI dashboard built to analyze ecommerce performance through dynamic insights on revenue, profit trends, customer behavior, and regional market distribution.
 

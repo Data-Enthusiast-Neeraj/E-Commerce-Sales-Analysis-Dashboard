@@ -1,3 +1,4 @@
+![Screenshot 2025-07-05 090002](https://github.com/user-attachments/assets/b2058e5b-e695-42e9-b567-0741b4f80357)
 # E-Commerce-Sales-Analysis-Dashboard
 
 📦 **Ecommerce Sales Analysis Dashboard**
